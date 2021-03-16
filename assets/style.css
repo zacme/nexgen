@@ -1,0 +1,22 @@
+.background {
+    background-color: wheat;
+    background-size: Auto 100%;
+}
+.navbar 
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: goldenrod;
+        text-align: center;
+        font-size: xx-large;
+      }
+
+    h1 {
+        text-align: center;
+    }
+.logo {
+   text-align: center;
+
+}
